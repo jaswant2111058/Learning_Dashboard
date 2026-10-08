@@ -1,0 +1,579 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Python Programming",
+      "instructor": "John Smith",
+      "progress": 65,
+      "lessons": 20,
+      "syllabus": [
+        {
+          "id": 101,
+          "title": "Introduction",
+          "completed": true
+        },
+        {
+          "id": 102,
+          "title": "Variables & Data Types",
+          "completed": true
+        },
+        {
+          "id": 103,
+          "title": "Operators & Expressions",
+          "completed": true
+        },
+        {
+          "id": 104,
+          "title": "Strings in Depth",
+          "completed": true
+        },
+        {
+          "id": 105,
+          "title": "Lists, Tuples & Sets",
+          "completed": true
+        },
+        {
+          "id": 106,
+          "title": "Dictionaries",
+          "completed": true
+        },
+        {
+          "id": 107,
+          "title": "Conditionals",
+          "completed": true
+        },
+        {
+          "id": 108,
+          "title": "Loops & Iteration",
+          "completed": true
+        },
+        {
+          "id": 109,
+          "title": "Functions",
+          "completed": true
+        },
+        {
+          "id": 110,
+          "title": "Scope & Closures",
+          "completed": true
+        },
+        {
+          "id": 111,
+          "title": "Modules & Packages",
+          "completed": true
+        },
+        {
+          "id": 112,
+          "title": "File I/O",
+          "completed": true
+        },
+        {
+          "id": 113,
+          "title": "Exception Handling",
+          "completed": true
+        },
+        {
+          "id": 114,
+          "title": "Object Oriented Programming",
+          "completed": false
+        },
+        {
+          "id": 115,
+          "title": "Inheritance & Polymorphism",
+          "completed": false
+        },
+        {
+          "id": 116,
+          "title": "Decorators",
+          "completed": false
+        },
+        {
+          "id": 117,
+          "title": "Generators & Iterators",
+          "completed": false
+        },
+        {
+          "id": 118,
+          "title": "Virtual Environments & pip",
+          "completed": false
+        },
+        {
+          "id": 119,
+          "title": "Testing with pytest",
+          "completed": false
+        },
+        {
+          "id": 120,
+          "title": "Capstone: CLI Task Manager",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Generative AI",
+      "instructor": "Sarah Williams",
+      "progress": 38,
+      "lessons": 16,
+      "syllabus": [
+        {
+          "id": 201,
+          "title": "What is Generative AI",
+          "completed": true
+        },
+        {
+          "id": 202,
+          "title": "Tokens & Embeddings",
+          "completed": true
+        },
+        {
+          "id": 203,
+          "title": "Transformer Architecture",
+          "completed": true
+        },
+        {
+          "id": 204,
+          "title": "Prompt Engineering Basics",
+          "completed": true
+        },
+        {
+          "id": 205,
+          "title": "Few-shot & Chain of Thought",
+          "completed": true
+        },
+        {
+          "id": 206,
+          "title": "Structured Output",
+          "completed": true
+        },
+        {
+          "id": 207,
+          "title": "Retrieval Augmented Generation",
+          "completed": false
+        },
+        {
+          "id": 208,
+          "title": "Vector Databases",
+          "completed": false
+        },
+        {
+          "id": 209,
+          "title": "Chunking Strategies",
+          "completed": false
+        },
+        {
+          "id": 210,
+          "title": "Function & Tool Calling",
+          "completed": false
+        },
+        {
+          "id": 211,
+          "title": "Agentic Workflows",
+          "completed": false
+        },
+        {
+          "id": 212,
+          "title": "Evaluating LLM Output",
+          "completed": false
+        },
+        {
+          "id": 213,
+          "title": "Guardrails & Safety",
+          "completed": false
+        },
+        {
+          "id": 214,
+          "title": "Fine-tuning vs RAG",
+          "completed": false
+        },
+        {
+          "id": 215,
+          "title": "Cost & Latency Optimisation",
+          "completed": false
+        },
+        {
+          "id": 216,
+          "title": "Capstone: Build a RAG Assistant",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Development",
+      "instructor": "David Brown",
+      "progress": 25,
+      "lessons": 28,
+      "syllabus": [
+        {
+          "id": 301,
+          "title": "Course Overview",
+          "completed": true
+        },
+        {
+          "id": 302,
+          "title": "HTML Semantics",
+          "completed": true
+        },
+        {
+          "id": 303,
+          "title": "CSS Layout & Flexbox",
+          "completed": true
+        },
+        {
+          "id": 304,
+          "title": "Responsive Design",
+          "completed": true
+        },
+        {
+          "id": 305,
+          "title": "JavaScript Fundamentals",
+          "completed": true
+        },
+        {
+          "id": 306,
+          "title": "DOM & Events",
+          "completed": true
+        },
+        {
+          "id": 307,
+          "title": "Async JavaScript & Fetch",
+          "completed": true
+        },
+        {
+          "id": 308,
+          "title": "TypeScript Essentials",
+          "completed": false
+        },
+        {
+          "id": 309,
+          "title": "React Components",
+          "completed": false
+        },
+        {
+          "id": 310,
+          "title": "React Hooks",
+          "completed": false
+        },
+        {
+          "id": 311,
+          "title": "State Management",
+          "completed": false
+        },
+        {
+          "id": 312,
+          "title": "Client Side Routing",
+          "completed": false
+        },
+        {
+          "id": 313,
+          "title": "Forms & Validation",
+          "completed": false
+        },
+        {
+          "id": 314,
+          "title": "Node.js & npm",
+          "completed": false
+        },
+        {
+          "id": 315,
+          "title": "Express Routing",
+          "completed": false
+        },
+        {
+          "id": 316,
+          "title": "REST API Design",
+          "completed": false
+        },
+        {
+          "id": 317,
+          "title": "Middleware & Error Handling",
+          "completed": false
+        },
+        {
+          "id": 318,
+          "title": "SQL Basics",
+          "completed": false
+        },
+        {
+          "id": 319,
+          "title": "Postgres & Relationships",
+          "completed": false
+        },
+        {
+          "id": 320,
+          "title": "ORMs and Migrations",
+          "completed": false
+        },
+        {
+          "id": 321,
+          "title": "Authentication with JWT",
+          "completed": false
+        },
+        {
+          "id": 322,
+          "title": "Authorisation & Roles",
+          "completed": false
+        },
+        {
+          "id": 323,
+          "title": "File Uploads",
+          "completed": false
+        },
+        {
+          "id": 324,
+          "title": "Caching with Redis",
+          "completed": false
+        },
+        {
+          "id": 325,
+          "title": "Testing the Stack",
+          "completed": false
+        },
+        {
+          "id": 326,
+          "title": "Docker Basics",
+          "completed": false
+        },
+        {
+          "id": 327,
+          "title": "CI/CD Pipelines",
+          "completed": false
+        },
+        {
+          "id": 328,
+          "title": "Capstone: Deploy Full Stack App",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Data Structures & Algorithms",
+      "instructor": "Priya Nair",
+      "progress": 0,
+      "lessons": 24,
+      "syllabus": [
+        {
+          "id": 401,
+          "title": "Big-O Notation",
+          "completed": false
+        },
+        {
+          "id": 402,
+          "title": "Arrays & Dynamic Arrays",
+          "completed": false
+        },
+        {
+          "id": 403,
+          "title": "Two Pointers",
+          "completed": false
+        },
+        {
+          "id": 404,
+          "title": "Sliding Window",
+          "completed": false
+        },
+        {
+          "id": 405,
+          "title": "Linked Lists",
+          "completed": false
+        },
+        {
+          "id": 406,
+          "title": "Stacks",
+          "completed": false
+        },
+        {
+          "id": 407,
+          "title": "Queues & Deques",
+          "completed": false
+        },
+        {
+          "id": 408,
+          "title": "Hash Tables",
+          "completed": false
+        },
+        {
+          "id": 409,
+          "title": "Binary Search",
+          "completed": false
+        },
+        {
+          "id": 410,
+          "title": "Sorting Algorithms",
+          "completed": false
+        },
+        {
+          "id": 411,
+          "title": "Recursion & Backtracking",
+          "completed": false
+        },
+        {
+          "id": 412,
+          "title": "Binary Trees",
+          "completed": false
+        },
+        {
+          "id": 413,
+          "title": "Tree Traversals",
+          "completed": false
+        },
+        {
+          "id": 414,
+          "title": "Binary Search Trees",
+          "completed": false
+        },
+        {
+          "id": 415,
+          "title": "Heaps & Priority Queues",
+          "completed": false
+        },
+        {
+          "id": 416,
+          "title": "Tries",
+          "completed": false
+        },
+        {
+          "id": 417,
+          "title": "Graph Representations",
+          "completed": false
+        },
+        {
+          "id": 418,
+          "title": "BFS & DFS",
+          "completed": false
+        },
+        {
+          "id": 419,
+          "title": "Topological Sort",
+          "completed": false
+        },
+        {
+          "id": 420,
+          "title": "Dijkstra's Algorithm",
+          "completed": false
+        },
+        {
+          "id": 421,
+          "title": "Union Find",
+          "completed": false
+        },
+        {
+          "id": 422,
+          "title": "Dynamic Programming 1D",
+          "completed": false
+        },
+        {
+          "id": 423,
+          "title": "Dynamic Programming 2D",
+          "completed": false
+        },
+        {
+          "id": 424,
+          "title": "Interview Patterns Review",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Cloud & DevOps Essentials",
+      "instructor": "Michael Chen",
+      "progress": 100,
+      "lessons": 18,
+      "syllabus": [
+        {
+          "id": 501,
+          "title": "Cloud Service Models",
+          "completed": true
+        },
+        {
+          "id": 502,
+          "title": "Regions & Availability Zones",
+          "completed": true
+        },
+        {
+          "id": 503,
+          "title": "Virtual Machines",
+          "completed": true
+        },
+        {
+          "id": 504,
+          "title": "Object Storage",
+          "completed": true
+        },
+        {
+          "id": 505,
+          "title": "Virtual Networks & Subnets",
+          "completed": true
+        },
+        {
+          "id": 506,
+          "title": "Load Balancers",
+          "completed": true
+        },
+        {
+          "id": 507,
+          "title": "Identity & Access Management",
+          "completed": true
+        },
+        {
+          "id": 508,
+          "title": "Secrets Management",
+          "completed": true
+        },
+        {
+          "id": 509,
+          "title": "Infrastructure as Code",
+          "completed": true
+        },
+        {
+          "id": 510,
+          "title": "Terraform Fundamentals",
+          "completed": true
+        },
+        {
+          "id": 511,
+          "title": "Containers & Docker",
+          "completed": true
+        },
+        {
+          "id": 512,
+          "title": "Container Registries",
+          "completed": true
+        },
+        {
+          "id": 513,
+          "title": "Kubernetes Objects",
+          "completed": true
+        },
+        {
+          "id": 514,
+          "title": "Deployments & Rollouts",
+          "completed": true
+        },
+        {
+          "id": 515,
+          "title": "Observability & Logging",
+          "completed": true
+        },
+        {
+          "id": 516,
+          "title": "Metrics, Alerts & SLOs",
+          "completed": true
+        },
+        {
+          "id": 517,
+          "title": "Cost Management",
+          "completed": true
+        },
+        {
+          "id": 518,
+          "title": "Incident Response",
+          "completed": true
+        }
+      ]
+    }
+  ]
+}
